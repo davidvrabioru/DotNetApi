@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\FunBooksAndVideos.Domain\FunBooksAndVideos.Domain.csproj" />
+    <ProjectReference Include="..\FunBooksAndVideos.Infrastructure\FunBooksAndVideos.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
